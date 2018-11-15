@@ -15,8 +15,7 @@
  | 星期一   | 电话   | 单位hi   |
  
  
- | 首页（index.html)   |      |
- | 引导页（3Ddaohang.html）   |          |
+ | 首页（index.html)   |引导页（3Ddaohang.html） 
  | -----|:-------:|
  | 页面一   |定义详解   |
  | 页面二   |发展历程   |
